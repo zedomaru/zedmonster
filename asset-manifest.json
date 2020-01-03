@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zedomaru/zedmonster/static/css/main.655640c6.chunk.css",
+    "main.js": "/zedomaru/zedmonster/static/js/main.a7161b4f.chunk.js",
+    "main.js.map": "/zedomaru/zedmonster/static/js/main.a7161b4f.chunk.js.map",
+    "runtime-main.js": "/zedomaru/zedmonster/static/js/runtime-main.5ede1b74.js",
+    "runtime-main.js.map": "/zedomaru/zedmonster/static/js/runtime-main.5ede1b74.js.map",
+    "static/js/2.be6d015b.chunk.js": "/zedomaru/zedmonster/static/js/2.be6d015b.chunk.js",
+    "static/js/2.be6d015b.chunk.js.map": "/zedomaru/zedmonster/static/js/2.be6d015b.chunk.js.map",
+    "index.html": "/zedomaru/zedmonster/index.html",
+    "precache-manifest.3a3c47a1500da02c6690c30dfba4a468.js": "/zedomaru/zedmonster/precache-manifest.3a3c47a1500da02c6690c30dfba4a468.js",
+    "service-worker.js": "/zedomaru/zedmonster/service-worker.js",
+    "static/css/main.655640c6.chunk.css.map": "/zedomaru/zedmonster/static/css/main.655640c6.chunk.css.map",
+    "static/js/2.be6d015b.chunk.js.LICENSE": "/zedomaru/zedmonster/static/js/2.be6d015b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ede1b74.js",
+    "static/js/2.be6d015b.chunk.js",
+    "static/css/main.655640c6.chunk.css",
+    "static/js/main.a7161b4f.chunk.js"
+  ]
+}
